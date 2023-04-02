@@ -10,3 +10,7 @@ Index of my github blog posts
     - [[Spring Boot] #4 CRUD 구현](https://cyh6327.github.io/springboot/2023-03-28-springboot-crud/)
     - [[Spring Boot] #5 페이징과 정렬 처리](https://cyh6327.github.io/springboot/2023-03-29-springboot-paging-and-sort/)
     - [[Spring Boot] #6 쿼리 메서드(Query Methods) 기능과 @Query](https://cyh6327.github.io/springboot/2023-03-29-springbood-query-method/)
+    
+3. ex3 <br>
+    - [[Spring Boot] #7 화면 구성을 위한 Thymeleaf 사용 - 1](https://cyh6327.github.io/springboot/2023-04-02-springboot-thymeleaf/)
+    - [[Spring Boot] #8 화면 구성을 위한 Thymeleaf 사용 - 2](https://cyh6327.github.io/springboot/2023-04-02-springboot-thymeleaf-objects/)
